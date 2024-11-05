@@ -8,3 +8,4 @@ permalink: /people.html
 ---
 
 ## People
+Gyuri Kang is a Ph.D. student in Information Science at Indiana University Bloomington.
