@@ -1,6 +1,6 @@
 ---
 title: People
-layout: people
+layout: about
 permalink: /people.html
 # include CollectionBuilder info at bottom
 # Edit the markdown on in this file to describe your collection
