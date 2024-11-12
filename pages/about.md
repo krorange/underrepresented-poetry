@@ -10,7 +10,12 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection" %}
+{% include feature/nav-menu.html sections="Examples;About the Collection" %}
+
+## Examples
+
+Example images:  
+{% include feature/image.html objectid="dario;posey;jones;kono;vuong" %}
 
 ## About the Collection
 
@@ -18,9 +23,6 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
-
-Example images:  
-{% include feature/image.html objectid="kono" width="75" caption="an image" %}
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
