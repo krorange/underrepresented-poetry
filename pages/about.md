@@ -19,8 +19,8 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
 
-Example images:
-{% include feature/image.html objectid="demo_001;demo_004;demo_005" %}
+Example images:  
+{% include feature/image.html objectid="kono" width="75" caption="an image" %}
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
