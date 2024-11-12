@@ -21,7 +21,7 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 
 Example images:
 
-{% include feature/image.html objectid="dario;jones;kono;posey;vuong" %}
+{% include feature/image.html objectid="aa001;apa-aa002;apa-pa003;lxa001;na001" %}
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
