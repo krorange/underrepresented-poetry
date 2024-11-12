@@ -2,6 +2,12 @@ display_name,stub,dropdown_parent
 Home,/,
 About,,
 About the collection,/about.html,About
+Underrepresented groups,,
+AA,/aa.html,Underrepresented groups
+APA-AA,/apa-aa.html,Underrepresented groups
+APA-PA,/apa-pa.html,Underrepresented groups
+LA,/la.html,Underrepresented groups
+NA,/na.html,Underrepresented groups
 Browse,/browse.html,
 Subjects,/subjects.html,
 Locations,/locations.html,
@@ -9,9 +15,3 @@ Map,/map.html,
 Timeline,/timeline.html,
 Data,/data.html,
 People,/people.html,About
-Underrepresented groups,,
-AA,/aa.html,Underrepresented groups
-APA-AA,/apa-aa.html,Underrepresented groups
-APA-PA,/apa-pa.html,Underrepresented groups
-LA,/la.html,Underrepresented groups
-NA,/na.html,Underrepresented groups
