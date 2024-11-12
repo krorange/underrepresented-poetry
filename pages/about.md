@@ -12,8 +12,6 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}\
 
-{% include feature/image.html objectid="dario;jones;kono;posey;vuong" %}
-
 ## About the Collection
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
@@ -21,7 +19,9 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
 
-Example images:  
+Example images:
+
+{% include feature/image.html objectid="dario;jones;kono;posey;vuong" %}
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
