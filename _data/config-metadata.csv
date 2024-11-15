@@ -1,15 +1,17 @@
 field,display_name,browse_link,external_link
 title,Title,,
 author,Author,,
-date,Date Created,,
+publisher,Publisher,,
+date,Date Published,,
 description,Description,,
 subject,Subjects,true,
 location,Location,,
 latitude,Latitude,,
 longitude,Longitude,,
 source,Source,,
-identifier,Source Identifier,,
+url,HathiTrust Link,,true
 type,Type,,
 format,Format,,
+language,Language,,
 rights,Rights,,
 rightsstatement,Rights Statement,,true
