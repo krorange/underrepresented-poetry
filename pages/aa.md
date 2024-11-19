@@ -9,6 +9,4 @@ permalink: /aa.html
 ## African American poets
 
 African American poets include but not limited to:
-{% include feature/card.html header="Joshua Henry Jones Jr." text="Joshua Henry Jones Jr.
-" objectid="https://poets.org/sites/default/files/images/biographies/joshua%20henry%20jonesnewbioimage2020%20.png" width="25" centered=true %}{% include feature/card.html header="Waverley Turner Carmichael" text="Waverley Turner Carmichael
-" link="https://poets.org/poet/waverley-turner-carmichael" width="25" centered=true %}
+{% include feature/image.html objectid="https://poets.org/sites/default/files/images/biographies/joshua%20henry%20jonesnewbioimage2020%20.png;https://poets.org/poet/waverley-turner-carmichael" caption="Joshua Henry Jones Jr.;Waverley Turner Carmichael" link="https://poets.org/poet/joshua-henry-jones-jr;https://poets.org/poet/waverley-turner-carmichael" alt="Joshua Henry Jones Jr.;Waverley Turner Carmichael" %}
