@@ -9,5 +9,5 @@ permalink: /aa.html
 ## African American poets
 
 African American poets include but not limited to:
-{% include https://poets.org/poet/joshua-henry-jones-jr header="Joshua Henry Jones Jr." text="Joshua Henry Jones Jr.
+{% include feature/card.html header="Joshua Henry Jones Jr." text="Joshua Henry Jones Jr.
 " objectid="https://poets.org/sites/default/files/images/biographies/joshua%20henry%20jonesnewbioimage2020%20.png" width="25" centered=true %}
