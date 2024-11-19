@@ -11,4 +11,4 @@ permalink: /aa.html
 African American poets include but not limited to:
 {% include feature/card.html header="Joshua Henry Jones Jr." text="Joshua Henry Jones Jr.
 " objectid="https://poets.org/sites/default/files/images/biographies/joshua%20henry%20jonesnewbioimage2020%20.png" width="25" centered=true %}{% include feature/card.html header="Waverley Turner Carmichael" text="Waverley Turner Carmichael
-" objectid="https://poets.org/poet/waverley-turner-carmichael" width="25" centered=true %}
+" link="https://poets.org/poet/waverley-turner-carmichael" width="25" centered=true %}
