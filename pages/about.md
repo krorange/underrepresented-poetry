@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="apa-aa001" %}
 
-{% include feature/nav-menu.html sections="About the Collection;References" %}
+{% include feature/nav-menu.html sections="About the Collection;Contributions;References" %}
 
 ## About the Collection
 
@@ -20,9 +20,9 @@ Examples include but not limited to:
 
 {% include feature/image.html objectid="aa001;apa-aa002;apa-pa003;lxa001;na001" %}
 
-## Contributions of the Collection
+## Contributions
 
-{% include feature/image.html objectid="img/bar" %}
+{% include feature/image.html objectid="assets/img/bar" %}
 
 ## References
 
