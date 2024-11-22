@@ -22,6 +22,8 @@ Examples include but not limited to:
 
 ## Contributions
 
+This collection is dedicated to amplify marginalized voices in American poetry.
+
 {% include feature/image.html objectid="assets/img/bar.png" %}
 
 ## References
