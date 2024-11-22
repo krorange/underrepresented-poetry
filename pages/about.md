@@ -22,7 +22,7 @@ Examples include but not limited to:
 
 ## Contributions
 
-{% include feature/image.html objectid="assets/img/bar" %}
+{% include feature/image.html objectid="assets/img/bar.png" %}
 
 ## References
 
