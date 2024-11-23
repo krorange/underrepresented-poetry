@@ -9,8 +9,6 @@ latitude,Latitude,,
 longitude,Longitude,,
 source,Source,,
 url,HathiTrust Link,,true
-type,Type,,
-format,Format,,
 language,Language,,
 rights,Rights,,
 rightsstatement,Rights Statement,,true
