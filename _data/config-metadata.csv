@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link
 title,Title,,
 author,Author,,
 publisher,Publisher,,
-date,Date Published,,
+date,Date,,
 subject,Subjects,true,
 location,Location,,
 latitude,Latitude,,
