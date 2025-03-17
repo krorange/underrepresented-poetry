@@ -1,14 +1,15 @@
-field,display_name,browse_link,external_link
-title,Title,,
-author,Author,,
+field,display_name,browse_link,external_link,dc_map,schema_map
+title,Title,,,DCTERMS.title,headline
+author,Author,,,DCTERMS.creator,creator
 publisher,Publisher,,
-date,Date,,
-subject,Subjects,true,
-location,Location,,
-latitude,Latitude,,
-longitude,Longitude,,
-source,Source,,
-url,HathiTrust Link,,true
+date,Date Created,,,DCTERMS.date,dateCreated
+subject,Subjects,true,,DCTERMS.subject,keywords
+location,Location,,,,contentLocation
+latitude,Latitude,,,,
+longitude,Longitude,,,,
+source,Source,,,,
+identifier,Source Identifier,,,,
+object_location,HathiTrust Link,,true
 language,Language,,
 rights,Rights,,
-rightsstatement,Rights Statement,,true
+rightsstatement,,,,DCTERMS.rights,license
