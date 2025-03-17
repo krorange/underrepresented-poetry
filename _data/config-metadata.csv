@@ -5,9 +5,7 @@ publisher,Publisher,,
 date,Date Created,,,DCTERMS.date,dateCreated
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
 language,Language,,
+source,Source,,,,
 object_location,HathiTrust Link,,true
 rightsstatement,,,,DCTERMS.rights,license
