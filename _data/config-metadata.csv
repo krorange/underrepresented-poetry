@@ -8,6 +8,6 @@ location,Location,,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
-object_location,HathiTrust Link,,true
 language,Language,,
+object_location,HathiTrust Link,,true
 rightsstatement,,,,DCTERMS.rights,license
